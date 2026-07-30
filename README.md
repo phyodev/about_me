@@ -1,12 +1,30 @@
-# About Me
+# > whoami
+> Phyo Pyae Sone
+> Senior Software Engineer | System Architecture
 
-- 👋 Hi, I’m Phyo Pyae Sone. Software Engineer and an IT Enthusiast from Myanmar. (Currently Yangon)
-- 👀 I’m interested in Computer Science, Programming, Coding, Making projects and Environment Clean and Green.
-- 🌱 I’m currently learning Business Information Technology.
-- 💞️ I’m looking to collaborate on Python and AI projects and other. (Data, AI_Models, Django)
--  My old GitHub Account is: (https://github.com/phyo17) 
-- 📫 How to reach me: (https://phyodev.com)
+> *"Tools are just practice. The real skills are concepts, knowledge, and experience."*
 
-# How to Connect Me? 😉
-Gmail - phyopyaesone.developer@gmail.com
-Website - https://phyodev.com
+I am a software engineer focused on system design, performance optimization, and solving complex problems. My core expertise lies in architecting scalable backends and processing large-scale enterprise data. As the technology landscape shifts, I am actively adapting to the AI era, exploring practical ways to integrate LLMs and automation into robust production systems.
+
+### 🧠 Core Expertise
+*   **System Architecture:** Designing microservices and RESTful/SOAP APIs capable of handling millions of user requests efficiently.
+*   **Infrastructure & DevOps:** Managing server deployments, optimizing Linux environments, and ensuring high availability via Docker and cloud platforms.
+*   **Pragmatic AI Integration:** Adapting traditional backends to support Vector Databases, Retrieval-Augmented Generation (RAG), and LLM features (like ChatGPT4o-mini) to solve real business logic problems.
+
+### 💼 Recent Engineering Impact
+*   **Enterprise Telecom Platforms:** Architected high-performance backends for major telco campaigns (9999, 7777) and VoLTE maintenance, prioritizing system reliability and scalability.
+*   **AI & Estimation Systems:** Engineered backend logic for project estimation platforms and built practical RAG pipelines for large-scale municipal data extraction (Hosono AI Project).
+*   **Digital Directory Infrastructure:** Optimized server security and deployed a highly available directory backend using MongoDB, PostgreSQL, and Nginx.
+
+### 🛠️ The Practice (Tech Stack)
+*   **Languages:** Python, C/C++, SQL.
+*   **Frameworks:** Django, FastAPI, Flask.
+*   **Databases:** PostgreSQL, MySQL, MongoDB.
+*   **DevOps:** Docker, GitHub Actions (CI/CD), Linux (CentOS).
+
+### 🌱 Continuous Learning
+Currently expanding my foundational knowledge by studying Business & Information Technology alongside a Bachelor of Arts in Geography.
+
+### 📫 Comm Links
+🌐 [phyodev.com](https://phyodev.com) | 📧 [phyopyaesone.developer@gmail.com](mailto:phyopyaesone.developer@gmail.com)
+🐙 Current: [phyodev](https://github.com/phyodev) | 🐙 Old: [phyo17](https://github.com/phyo17) | 💼 [LinkedIn](https://www.linkedin.com/in/phyo-dev/)
