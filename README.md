@@ -12,7 +12,7 @@ I am a software engineer focused on system design, performance optimization, and
 *   **Pragmatic AI Integration:** Adapting traditional backends to support Vector Databases, Retrieval-Augmented Generation (RAG), and LLM features (like ChatGPT4o-mini) to solve real business logic problems.
 
 ### 💼 Recent Engineering Impact
-*   **Enterprise Telecom Platforms:** Architected high-performance backends for major telco campaigns (9999, 7777) and VoLTE maintenance, prioritizing system reliability and scalability.
+*   **Enterprise Telecom Platforms:** Architected high-performance backends for major U9/Nine Communications campaigns (9999, 7777) and VoLTE maintenance, prioritizing system reliability and scalability.
 *   **AI & Estimation Systems:** Engineered backend logic for project estimation platforms and built practical RAG pipelines for large-scale municipal data extraction (Hosono AI Project).
 *   **Digital Directory Infrastructure:** Optimized server security and deployed a highly available directory backend using MongoDB, PostgreSQL, and Nginx.
 
