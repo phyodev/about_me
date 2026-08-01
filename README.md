@@ -15,7 +15,7 @@ I am a software engineer focused on system design, performance optimization, and
 *   **Enterprise Telecom Platforms:** Architected high-performance backends for major U9/Nine Communications campaigns like (9999, 7777, BigDream) and VoLTE maintenance, optimization, prioritizing system reliability and scalability.
 *   **AI & Estimation Systems:** Engineered backend logic for project estimation platforms and built practical RAG pipelines for large-scale municipal data extraction (Hosono AI Project).
 *   **Digital Directory Infrastructure:** Optimized server security and deployed a highly available directory backend using MongoDB, PostgreSQL, and Nginx.
-
+ 
 ### 🛠️ The Practice (Tech Stack)
 *   **Languages:** Python, C/C++, SQL.
 *   **Frameworks:** Django, FastAPI, Flask.
